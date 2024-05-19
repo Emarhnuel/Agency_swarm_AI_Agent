@@ -2,15 +2,12 @@
 # Setting Up Agency Swarm Script
 
 ### Prerequisites
-1. **Install Anaconda:**  
-   Download Anaconda from [https://www.anaconda.com/](https://www.anaconda.com/).
-
-2. **Create a Virtual Environment:**
+1. **Create a Virtual Environment:**
    ```bash
    conda create -n swarm_env python=3.10 pip
    ```
    
-3. **Activate the Virtual Environment:**
+2. **Activate the Virtual Environment:**
    ```bash
    conda activate swarm_env
    ```
@@ -18,12 +15,12 @@
 ### Clone and Navigate to the Repository
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/john-adeojo/agency_swarm_tutorial.git
+   git clone https://github.com/Emarhnuel/Agency_swarm_AI_Agent.git
    ```
 
 2. **Navigate to the Repo:**
    ```bash
-   cd /path/to/your-repo/agency_swarm_tutorial
+   cd /path/to/your-repo/Agency_swarm_AI_Agent
    ```
 
 3. **Install Requirements:**
